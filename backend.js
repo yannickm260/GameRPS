@@ -38,7 +38,7 @@ function generate_choice_computer(){
 function verification(){
     if(choiceUser == choiceComputer)
     {
-        result = "Egality !"
+        result = "Draw !"
     }
     // Loosing
     
